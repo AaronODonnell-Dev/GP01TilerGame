@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TileBasedPlayer20172018", "TileBasedPlayer20172018\TileBasedPlayer20172018.csproj", "{CE75C32B-DF3C-4932-BF2C-DAEFA23321D8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1999E46E-35D7-4738-A3A7-138CC6818A8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE75C32B-DF3C-4932-BF2C-DAEFA23321D8}.Debug|x86.ActiveCfg = Debug|x86
+		{CE75C32B-DF3C-4932-BF2C-DAEFA23321D8}.Debug|x86.Build.0 = Debug|x86
+		{CE75C32B-DF3C-4932-BF2C-DAEFA23321D8}.Release|x86.ActiveCfg = Release|x86
+		{CE75C32B-DF3C-4932-BF2C-DAEFA23321D8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {326598EC-16A0-47B8-B48E-B75BCD1F3314}
+	EndGlobalSection
+EndGlobal

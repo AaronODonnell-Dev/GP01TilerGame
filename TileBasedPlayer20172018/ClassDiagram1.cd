@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CameraNS.Camera" Collapsed="true">
+    <Position X="5.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAQACAAAAAgAAICAAAAAAAAAAAAQAgAAA=</HashCode>
+      <FileName>Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tiler.Collider" Collapsed="true">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAhAAAAAggAAAAAAAQAAAAAAAgAAAAAACAAAAAA=</HashCode>
+      <FileName>Collider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tiler.TilePlayer">
+    <Position X="3.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAIAAAgAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>TilePlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TileBasedPlayer20172018.Game1" Collapsed="true">
+    <Position X="11.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEEEAAAAAAwAAAAAAAAAAQAAgAAgAAAIIEAAAAAU=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TileBasedPlayer20172018.Program" Collapsed="true">
+    <Position X="10" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Helpers.HealthBar" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAIAAAAAACAAAQAAAAAAAAAAg=</HashCode>
+      <FileName>HealthBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Engine.Engines.InputEngine" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMRgAMCAgAAIAACBAAAIAQAAqAgAARAAAigEAAATCAI=</HashCode>
+      <FileName>InputEngine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimatedSprite.RotatingSprite" Collapsed="true">
+    <Position X="3.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQACgAIKAACCgAAAAAAAAQAAAAEAIAAAAJAAQAAAAg=</HashCode>
+      <FileName>rotatingSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimatedSprite.AnimateSheetSprite" Collapsed="true">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iCSQAAAAAAAAAgAAAAoAAABikCAABEEIAAQACAAAkIE=</HashCode>
+      <FileName>Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tiling.SimpleTileLayer">
+    <Position X="9.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAABAAgAAACAAACAAAAAAABIAAAAIgQAAEBA=</HashCode>
+      <FileName>SimpleTileLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tiling.Tile">
+    <Position X="11" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABCAAAIAAQAAAAAgCBAACACAAEAAAAAABAAAQgAYBA=</HashCode>
+      <FileName>Tile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tiling.TileRef">
+    <Position X="12.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAGgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TileRef.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Engine.Engines.Direction" Collapsed="true">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACACAAAEAAAI=</HashCode>
+      <FileName>InputEngine.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
